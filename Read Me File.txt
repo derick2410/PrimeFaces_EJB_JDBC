@@ -1,0 +1,10 @@
+Installation and Set-up Instructions:
+
+1. Copy the "SWE645_HW1_DAC.war" file and paste it in the following folder of your JBoss location: "..jboss\standalone\deployments\"
+2. Open folder: "..\jboss\bin"
+3. Double click on "standalone.bat" file.
+4. Open any web browser and hit this link: "http://localhost:9990/SWE645_CSD_PrimeFaces_EJB_JDBC/
+
+
+
+AWS Link:--- http://ec2-52-1-117-17.compute-1.amazonaws.com/SWE645_CSD_PrimeFaces_EJB_JDBC/
